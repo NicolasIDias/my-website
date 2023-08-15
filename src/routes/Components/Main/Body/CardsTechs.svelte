@@ -21,8 +21,7 @@
             Java<br>
             Spring<br>
             Nodejs<br>
-            Express/Fastify<br>
-            MongoDB
+            Express/Fastify
         </p>
     </div>
 </div>
@@ -31,7 +30,7 @@
 
     <div class="mt-2">
         <a href="/" class="text-xl font-bold text-gray-700 dark:text-white hover:text-gray-600 dark:hover:text-gray-200 hover:underline" tabindex="0" role="link">DataBases</a>
-        <p class="mt-2 text-gray-600 dark:text-gray-300">Java<br>
+        <p class="mt-2 text-gray-600 dark:text-gray-300">Postgres<br>
             MongoDb<br>
             MySql
         </p>
